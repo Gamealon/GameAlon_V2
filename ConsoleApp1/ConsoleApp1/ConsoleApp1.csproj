@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>bot_and_messenger-10-512 %281%29.ico</ApplicationIcon>
+    <ApplicationIcon>gamecontroller_512_ZBm_icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="NetTelegramBotApi, Version=4.2.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bot_and_messenger-10-512 %281%29.ico" />
+    <Content Include="gamecontroller_512_ZBm_icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
